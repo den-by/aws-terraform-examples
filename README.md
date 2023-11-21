@@ -14,3 +14,15 @@ First, clone this repository to your local machine. Then navigate to the directo
 ```shell
 terraform init
 ```
+
+## Usage
+
+```shell
+terraform apply
+```
+
+## Cleanup
+
+```shell
+terraform destroy
+```
